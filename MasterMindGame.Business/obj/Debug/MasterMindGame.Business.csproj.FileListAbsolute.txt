@@ -1,0 +1,9 @@
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\bin\Debug\MasterMindGame.Business.dll
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\bin\Debug\MasterMindGame.Business.pdb
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\obj\Debug\MasterMindGame.Business.csprojAssemblyReference.cache
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\obj\Debug\MasterMindGame.Business.csproj.CoreCompileInputs.cache
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\obj\Debug\MasterMindGame.Business.dll
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\obj\Debug\MasterMindGame.Business.pdb
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\bin\Debug\log4net.dll
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\bin\Debug\log4net.xml
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Business\obj\Debug\MasterMindGame.Business.csproj.CopyComplete

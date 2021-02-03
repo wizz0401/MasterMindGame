@@ -1,0 +1,15 @@
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\MasterMindGame.Presentation.exe.config
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\MasterMindGame.Presentation.exe
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\MasterMindGame.Presentation.pdb
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.csprojAssemblyReference.cache
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.MasterMindGame.resources
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.Properties.Resources.resources
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.csproj.GenerateResource.cache
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.csproj.CoreCompileInputs.cache
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.exe
+c:\users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.pdb
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\MasterMindGame.Business.dll
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\MasterMindGame.Business.pdb
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\obj\Debug\MasterMindGame.Presentation.csproj.CopyComplete
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\log4net.dll
+C:\Users\shouwizz\source\repos\MasterMindGame\MasterMindGame.Presentation\bin\Debug\log4net.xml
